@@ -9,7 +9,7 @@ docker exec -it postgres bash
 ```
 3. Use the postgres command line client psql
 ```
-psql -u pbs
+psql -U pbs
 ```
 3. Create and create an empty database: **customer**
 ```
